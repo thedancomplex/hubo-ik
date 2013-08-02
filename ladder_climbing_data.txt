@@ -1,0 +1,14 @@
+20	-15	0	-90	0	-20	0
+20	15	0	-90	0	-20	0
+0	0	-10	20	-10	0
+0	0	-10	20	-10	0
+10	700
+
+right arm
+left arm
+right leg
+left leg
+up-down mag, up-down time
+
+
+
